@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+	font-family: 'November';
+	font-weight: 400;
+	src: url('../public/fonts/november/novem___.woff');
+}
